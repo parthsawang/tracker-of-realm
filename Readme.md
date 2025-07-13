@@ -4,7 +4,7 @@ A smart, privacy-respecting productivity and digital wellbeing app for Windows t
 
 ## i am parth
 
-## 📌 Features
+## 📌 Features to be added
 
 ### 🖥️ System Usage Monitoring
 
@@ -112,15 +112,6 @@ A smart, privacy-respecting productivity and digital wellbeing app for Windows t
 - **Storage**: JSON / CSV-based local storage
 - **Visuals**: Charts.js, Plotly, or Matplotlib
 - **Packaging**: PyInstaller for `.exe` creation
-
----
-
-## 📦 Coming Soon
-
-- Windows startup integration
-- Auto-save crash-safe sessions
-- Multi-user support
-- Sync with cloud or mobile apps
 
 ---
 
